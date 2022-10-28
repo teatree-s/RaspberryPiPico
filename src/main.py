@@ -94,11 +94,9 @@ while True:
     draw_bmp_image(file_path)
     if sd_access:
         wait_time = 3000
-        wait_time -= utime.ticks_diff(utime.ticks_ms(), draw_start_time)
-        utime.sleep_ms(wait_time)
     else:
         wait_time = 1000
-        wait_time -= utime.ticks_diff(utime.ticks_ms(), draw_start_time)
+    wait_time -= utime.ticks_diff(utime.ticks_ms(), draw_start_time)
     utime.sleep_ms(wait_time)
     print("wait_time:", wait_time)
     print("")
