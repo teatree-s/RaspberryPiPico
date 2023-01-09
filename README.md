@@ -16,6 +16,7 @@ Raspberry Pi Pico を対象としたプロジェクトです。
 Raspberry Pi Pico を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
 
 - ST7735 : TFT ST7735 を使ったプロジェクト
+- ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
