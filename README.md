@@ -18,3 +18,9 @@ Raspberry Pi Pico を使ったプログラムを置いています。各プロ�
 - ST7735 : TFT ST7735 を使ったプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 3. 参考
+
+- [Raspberry Pi Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
