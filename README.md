@@ -13,10 +13,13 @@ Raspberry Pi Pico を対象としたプロジェクトです。
 
 # 2. 使い方
 
-Raspberry Pi Pico を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
+Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
 
-- ST7735 : TFT ST7735 を使ったプロジェクト
-- ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
+- Raspberry Pi Pico
+  - ST7735 : TFT ST7735 を使ったプロジェクト
+  - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
+- Raspberry Pi Pico W
+  - ST7735withWiFi : Japan News API を日本語で表示するプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
