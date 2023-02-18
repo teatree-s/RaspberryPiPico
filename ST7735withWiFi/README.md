@@ -56,7 +56,7 @@ http://openlab.ring.gr.jp/efont/shinonome/
 1. ツールの Flash Size は"2MB(Sketch: 1MB, FS: 1MB)"を選択
 1. Pico LittleFS Filesystem Uploader をインストール
 1. ツールの Pico LittleFS Data Upload で data をコピー
-1. News API で API key を取得する
+1. News API でアカウントを登録し API key を入手する
 1. NewsAPI.ino の STASSID、STAPSK、NewsAPIURL を変更する
 1. スケッチの書き込み装置を使って書き込む
 1. サンプル画像とニュースが交互に表示されます
