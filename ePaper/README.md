@@ -7,13 +7,13 @@
 Raspberry Pi Pico で 電子ペーパー MH-ET LIVE E-paper 2.13 Inch へ表示するプロジェクトです。  
 Arduino IDE を使用して、スケッチを作成しています。
 
-- MH-ET LIVE E-paper 2.13 Inch 212x104
+- MH-ET LIVE E-paper 2.13 Inch 212x104  
   <img src="./docs/MH-ET LIVE E-paper.jpg" width="480">
 
 Waveshare から提供されている e-Paper のサンプルコード epd2in13b_V4 をベースに作成しています。
 
-waveshare / e-Paper  
-https://github.com/waveshare/e-Paper
+- waveshare / e-Paper  
+  https://github.com/waveshare/e-Paper
 
 オリジナルからの変更点は以下です。
 
