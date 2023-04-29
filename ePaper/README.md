@@ -62,6 +62,18 @@ Waveshare から提供されている e-Paper のサンプルコード epd2in13b
 1. スケッチの書き込み装置を使って書き込む
 1. 図形とサンプル画像が表示されます
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 4. Image2Lcd
+
+画像をバイナリデータに変換するツールです。  
+Image2Lcd\image にあるビットマップ画像を読み込んで[Save]ボタンを押すとソースコードが出力されます。  
+出力されたコードは imagedata.cpp へ貼り付けします。
+
+<img src="./docs/Image2Lcd.jpg" width="480">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # 5. 参考
 
 - [arduino-pico](https://github.com/earlephilhower/arduino-pico/)
