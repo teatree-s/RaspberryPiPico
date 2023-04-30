@@ -32,9 +32,6 @@ Waveshare から提供されている e-Paper のサンプルコード epd2in13b
   Boards Manager への追加はこちらを参考にしてください。  
   https://github.com/earlephilhower/arduino-pico/
 
-- スケッチ例  
-  Adafruit ST7735 and ST7789 Library - graphicstest
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 3. Pin connections
