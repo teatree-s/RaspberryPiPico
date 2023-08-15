@@ -18,6 +18,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 - Raspberry Pi Pico
   - ePaper : 電子ペーパーを使ったプロジェクト
   - ST7735 : TFT ST7735 を使ったプロジェクト
+  - ST7735S : OLED ST7735 を使ったプロジェクト
   - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
 - Raspberry Pi Pico W
   - ST7735withWiFi : Japan News API を日本語で表示するプロジェクト
