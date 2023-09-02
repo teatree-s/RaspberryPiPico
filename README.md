@@ -17,6 +17,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 
 - Raspberry Pi Pico
   - ePaper : 電子ペーパーを使ったプロジェクト
+  - GC9A01 : 1.28 インチ丸型ディスプレイを使ったプロジェクト
   - ST7735 : 1.8 TFT ST7735 128x160 を使ったプロジェクト
   - ST7735S : 0.96 OLED 80x160 ST7735S を使ったプロジェクト
   - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
