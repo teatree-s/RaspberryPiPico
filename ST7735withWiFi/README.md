@@ -8,6 +8,8 @@ Raspberry Pi Pico W の WiFi を使って News API でニュースを取得し�
 TFT 液晶ディスプレイの ST7735 へ表示するプロジェクトです。  
 Arduino IDE を使用して、スケッチを作成しています。
 
+<img src="./docs/ST7735.jpg" width="480">
+
 取得した日本語のニュースのタイトルは、フリーの日本語漢字ビットマップフォント、東雲フォントで表示しています。
 東雲フォントの表示は以下のプロジェクトを参考に作成しています。ありがとう。
 
@@ -76,9 +78,5 @@ http://openlab.ring.gr.jp/efont/shinonome/
 - [Arduino Pico LittleFS Filesystem Uploader](https://github.com/earlephilhower/arduino-pico-littlefs-plugin)  
   data フォルダのフォントファイルとサンプル画像をコピーするツールです。
 - [News API](https://newsapi.org/)
-
-## 5.1. 画像
-
-<img src="./docs/ST7735.jpg" width="480">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

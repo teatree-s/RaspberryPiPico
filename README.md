@@ -32,3 +32,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 - [Raspberry Pi Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<img src="./docs/ST7735.jpg" width="480">
+<img src="./docs/IMG_4046.JPEG" width="480">
+<img src="./docs/IMG_3866.jpg" width="480">
