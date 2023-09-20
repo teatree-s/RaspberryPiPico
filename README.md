@@ -22,7 +22,8 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
   - ST7735S : 0.96 OLED 80x160 ST7735S を使ったプロジェクト
   - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
 - Raspberry Pi Pico W
-  - ST7735withWiFi : Japan News API を日本語で表示するプロジェクト
+  - SSD1306withWiFi : 0.96 OLED に Japan News API を日本語で表示するプロジェクト
+  - ST7735withWiFi : 1.8 TFT に Japan News API を日本語で表示するプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
