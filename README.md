@@ -20,6 +20,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
   - GC9A01 : 1.28 インチ丸型ディスプレイを使ったプロジェクト
   - ST7735 : 1.8 TFT ST7735 128x160 を使ったプロジェクト
   - ST7735S : 0.96 OLED 80x160 ST7735S を使ったプロジェクト
+  - ST7735withCamera : CircuitPython を使用してカメラを使ったプロジェクト
   - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
 - Raspberry Pi Pico W
   - SSD1306withWiFi : 0.96 OLED に Japan News API を日本語で表示するプロジェクト
