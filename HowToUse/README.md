@@ -52,12 +52,12 @@ https://projects.raspberrypi.org/en/projects/get-started-pico-w/1
 
 # 4. L チカ（LED を光らせよう）
 
-ここでは電子工作の基本 L チカを行います。以下の手順を実施ください。
+ここでは電子工作の基本 L チカを行います。
 
 - USB ケーブルと Raspberry Pi Pico W を接続します。
 - Thonny を起動します。
 - 左上の＋ボタンを押して、プログラムが書けるようにします。
-- 以下のプログラムをコピーします。
+- 以下のプログラムをコピーして貼り付けます。
 
 ```python
 import machine
@@ -74,14 +74,14 @@ while (True):
 
 <img src="./docs/setup01.png">
 
-- 左上 3 番目の保存アイコンを押してプログラムを保存します。
+- 次に、左上 3 番目の保存アイコンを押してプログラムを保存します。
 - 保存先は「Raspberry Pi Pico」を選択します。
 - 適当なファイル名（例えば main.py）を入力します。
 
 <img src="./docs/setup02.png">
 
-- Raspberry Pi Pico に保存されたファイルを選択します。
-- 左上 4 番目の実行アイコンを押してプログラムを実行します。
+- 次に、Raspberry Pi Pico に保存されたファイルを選択します。
+- 左上 4 番目の実行アイコンを押してプログラムを実行すると、LED が光ります。
 
 <img src="./docs/setup03.png">
 
