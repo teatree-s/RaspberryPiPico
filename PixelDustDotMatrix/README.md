@@ -53,7 +53,7 @@ Arduino IDE の環境構築を行います。バージョンは 2.3.2 を使用�
 | VCC     | GND         |     | VCC     | 3.3V        |
 | GND     | 5V          |     | GND     | GND         |
 | DIN     | GPIO 3      |     | SCL     | GPIO 5      |
-| CS      | GPIO 1      |     | SDA     | GPIO 6      |
+| CS      | GPIO 1      |     | SDA     | GPIO 4      |
 | CLK     | GPIO 2      |     |         |             |
 
 Max7219 ドットマトリックスモジュールは動作電圧が 5V、  
