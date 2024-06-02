@@ -61,6 +61,19 @@ MPU6050 モジュールは動作電圧が 3.3V ですので、ご注意くださ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# 4. 環境構築
+
+本プロジェクトでは、SPI と Wire を使用するため、RP2040-Zero のピンアサインを変更しています。
+
+Arduino IDE の waveshare_rp2040_zero フォルダにある「pins_arduino.h」をバックアップしてから、  
+本プロジェクトの「pins_arduino.h」に置き換えてコンパイルしてください。
+
+C:\Users\xxx\AppData\Local\Arduino15\packages\rp2040\hardware\rp2040\3.8.1\variants\waveshare_rp2040_zero
+
+xxx は、使用ユーザー名に置き換えてください。
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # 4. 参考
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
