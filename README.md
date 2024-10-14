@@ -26,6 +26,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 - Raspberry Pi Pico W
   - SSD1306withWiFi : 0.96 OLED に Japan News API を日本語で表示するプロジェクト
   - ST7735withWiFi : 1.8 TFT に Japan News API を日本語で表示するプロジェクト
+  - CoinPrice : 1.8 TFT に CoinGecko API でビットコイン価格を取得して表示するプロジェクト
 - RP2040-Zero
   - PixelDustDotMatrix : 加速度センサー MPU6050 モジュールを使ったプロジェクト
 
