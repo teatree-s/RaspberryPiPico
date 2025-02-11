@@ -5,7 +5,8 @@
 # 1. プロジェクトについて
 
 Raspberry Pi Pico を対象としたプロジェクトです。  
-ここでは、実際に Raspberry Pi Pico で作成したプログラムを展開します。
+ここでは、実際に Raspberry Pi Pico で作成したプログラムを公開しています
+。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -27,6 +28,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
   - SSD1306withWiFi : 0.96 OLED に Japan News API を日本語で表示するプロジェクト
   - ST7735withWiFi : 1.8 TFT に Japan News API を日本語で表示するプロジェクト
   - CoinPrice : 1.8 TFT に CoinGecko API でビットコイン価格を取得して表示するプロジェクト
+  - 1in51-Transparent-OLED : 1.51 インチの透明 OLED を使ったプロジェクト
 - RP2040-Zero
   - PixelDustDotMatrix : 加速度センサー MPU6050 モジュールを使ったプロジェクト
 
@@ -38,6 +40,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<img src="./docs/DSC00345.JPEG" width="480">
 <img src="./docs/DSC00236.JPEG" width="480">
 <img src="./docs/ST7735.jpg" width="480">
 <img src="./docs/IMG_4046.JPEG" width="480">
