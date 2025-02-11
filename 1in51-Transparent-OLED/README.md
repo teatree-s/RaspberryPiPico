@@ -54,6 +54,8 @@ SSID = "your-ssid"
 PASSWORD = "your-password"
 ```
 
+Wi-Fi は時刻取得のために使用しています。接続しないとエラーで実行できませんが、表示するだけならコメントアウトすれば良いです。
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 4. 参考
