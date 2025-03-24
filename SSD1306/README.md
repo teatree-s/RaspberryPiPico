@@ -18,12 +18,12 @@ Raspberry Pi の公式ドキュメントを参考に環境を作成してくだ�
 1. [Getting started with your Raspberry Pi Pico W](https://projects.raspberrypi.org/en/projects/get-started-pico-w)
 1. [What is MicroPython?](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 
-Pico 2 W に書き込む UF2 ファイルは 3 つ目の"Pico 2 W"をクリックしてダウンロードしてください。「mp_firmware_unofficial_latest.uf2」という名前のファイルです。
+Pico 2 W に書き込む UF2 ファイルは 3 つ目のページにある"Pico 2 W"をクリックしてダウンロードしてください。「mp_firmware_unofficial_latest.uf2」という名前のファイルです。
 
 Download the correct MicroPython UF2 file for your board:  
 "Pico 2 W"
 
-また本フォルダの親フォルダにある HowToUse も参考にしてください。
+また Thonny のインストールなどは、親フォルダにある HowToUse も参考にしてください。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
