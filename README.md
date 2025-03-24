@@ -24,7 +24,8 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
   - ST7735withCamera : CircuitPython を使用してカメラを使ったプロジェクト
   - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
   - ST7735withBME280 : 1.8 TFT ST7735 と BME280 を使ったプロジェクト
-- Raspberry Pi Pico W
+- Raspberry Pi Pico W or Pico 2 W
+  - SSD1306 : MicroPython で 0.96 OLED に文字を表示するプロジェクト
   - SSD1306withWiFi : 0.96 OLED に Japan News API を日本語で表示するプロジェクト
   - ST7735withWiFi : 1.8 TFT に Japan News API を日本語で表示するプロジェクト
   - CoinPrice : 1.8 TFT に CoinGecko API でビットコイン価格を取得して表示するプロジェクト
