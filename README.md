@@ -42,10 +42,18 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p>
 <img src="./docs/DSC00345.JPEG" width="360">
 <img src="./docs/DSC00236.JPEG" width="360">
+</p>
+<p>
 <img src="./docs/ST7735.jpg" width="360">
 <img src="./docs/IMG_4046.JPEG" width="360">
+</p>
+<p>
 <img src="./docs/IMG_3866.jpg" width="360">
 <img src="./docs/DSC00212.jpeg" width="360">
+</p>
+<p>
 <img src="./docs/DSC00377.JPEG" width="360">
+</p>
