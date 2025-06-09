@@ -26,6 +26,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
   - ST7735withBME280 : 1.8 TFT ST7735 と BME280 を使ったプロジェクト
 - Raspberry Pi Pico W or Pico 2 W
   - SSD1306 : MicroPython で 0.96 OLED に文字を表示するプロジェクト
+  - SSD1306withMHZ19 : MicroPython で 0.96 OLED に CO2 センサーの値を表示するプロジェクト
   - SSD1306withWiFi : 0.96 OLED に Japan News API を日本語で表示するプロジェクト
   - ST7735withWiFi : 1.8 TFT に Japan News API を日本語で表示するプロジェクト
   - CoinPrice : 1.8 TFT に CoinGecko API でビットコイン価格を取得して表示するプロジェクト
@@ -41,9 +42,10 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<img src="./docs/DSC00345.JPEG" width="480">
-<img src="./docs/DSC00236.JPEG" width="480">
-<img src="./docs/ST7735.jpg" width="480">
-<img src="./docs/IMG_4046.JPEG" width="480">
-<img src="./docs/IMG_3866.jpg" width="480">
-<img src="./docs/DSC00212.jpeg" width="480">
+<img src="./docs/DSC00345.JPEG" width="360">
+<img src="./docs/DSC00236.JPEG" width="360">
+<img src="./docs/ST7735.jpg" width="360">
+<img src="./docs/IMG_4046.JPEG" width="360">
+<img src="./docs/IMG_3866.jpg" width="360">
+<img src="./docs/DSC00212.jpeg" width="360">
+<img src="./docs/DSC00377.JPEG" width="360">
