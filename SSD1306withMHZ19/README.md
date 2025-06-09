@@ -7,8 +7,8 @@
 Raspberry Pi Pico 2 を使って、OLED 液晶ディスプレイの SSD1306 へ、CO2 センサー（MH-Z19C）から取得した値を表示するプロジェクトです。
 
 <p>
-  <img src="./docs/DSC00377.JPEG" width="480">
-  <img src="./docs/MH-Z19C.jpg" width="480">
+  <img src="./images/DSC00377.JPEG" width="480">
+  <img src="./images/MH-Z19C.jpg" width="480">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -43,7 +43,7 @@ Download the correct MicroPython UF2 file for your board:
 | GP3  | SCL  |     | GP0  | Rx      |
 | GP2  | SDA  |     | GP1  | Tx      |
 
-<img src="./docs/wiring-diagram.jpg" width="480">
+<img src="./images/wiring-diagram.jpg" width="480">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,4 +62,4 @@ Download the correct MicroPython UF2 file for your board:
 詳細は「docs/mh-z19c.pdf」を参照ください。  
 Preheat time（予熱時間）は 1 分ですので、その後、正確な値が取得できます。電源を用いた場合、この間は値が更新されません。
 
-<img src="./docs/MH-Z19C-param.jpg" width="480">
+<img src="./images/MH-Z19C-param.jpg" width="480">
