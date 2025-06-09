@@ -6,8 +6,10 @@
 
 Raspberry Pi Pico 2 を使って、OLED 液晶ディスプレイの SSD1306 へ、CO2 センサー（MH-Z19C）から取得した値を表示するプロジェクトです。
 
-<img src="./docs/DSC00377.JPEG" width="480">
-<img src="./docs/MH-Z19C.jpg" width="480">
+<p>
+  <img src="./docs/DSC00377.JPEG" width="480">
+  <img src="./docs/MH-Z19C.jpg" width="480">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
