@@ -30,6 +30,8 @@ RDA5807M のピン配置と回路図です。詳細な仕様は docs フォル�
 <img src="./docs/RDA5807M-CIR.jpg" height="240">
 </p>
 
+回路図の I2C に抵抗がありますが、Raspberry Pi Pico は無くても動作します。
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 3. Pin connections
