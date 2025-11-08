@@ -24,9 +24,11 @@ https://www.mathertel.de/Arduino/Radio
 
 RDA5807M のピン配置と回路図です。詳細な仕様は docs フォルダにある rda5807.pdf を参照ください。
 
+<p>
 <img src="./docs/RDA5807M.jpg" height="240">
 <img src="./docs/RDA5807M-PIN.jpg" height="240">
 <img src="./docs/RDA5807M-CIR.jpg" height="240">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,8 +55,10 @@ RDA5807M のピン配置と回路図です。詳細な仕様は docs フォル�
 
 ## 3.1. ステレオジャック
 
+<p>
 <img src="./docs/DSC00427.jpg" height="240">
 <img src="./docs/DSC00426.jpg" height="240">
+</p>
 
 ジャンパーワイヤを切ってはんだ付けください。
 

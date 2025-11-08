@@ -41,8 +41,6 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 
 - [Raspberry Pi Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <p>
 <img src="./docs/DSC00345.JPEG" height="360">
 <img src="./docs/DSC00236.JPEG" height="360">
@@ -59,3 +57,5 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 <img src="./docs/DSC00377.JPEG" height="360">
 <img src="./docs/DSC00416.jpg" height="360">
 </p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
