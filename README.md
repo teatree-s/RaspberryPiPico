@@ -24,6 +24,7 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
   - ST7735withCamera : CircuitPython を使用してカメラを使ったプロジェクト
   - ST7789withTouch : タッチパネル付きの TFT ST7789 を使ったプロジェクト
   - ST7735withBME280 : 1.8 TFT ST7735 と BME280 を使ったプロジェクト
+  - RDA5807M : FM ラジオモジュール RDA5807M を使ったプロジェクト
 - Raspberry Pi Pico W or Pico 2 W
   - SSD1306 : MicroPython で 0.96 OLED に文字を表示するプロジェクト
   - SSD1306withMHZ19 : MicroPython で 0.96 OLED に CO2 センサーの値を表示するプロジェクト
@@ -43,17 +44,18 @@ Raspberry Pi Pico と Raspberry Pi Pico W を使ったプログラムを置い�
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p>
-<img src="./docs/DSC00345.JPEG" width="360">
-<img src="./docs/DSC00236.JPEG" width="360">
+<img src="./docs/DSC00345.JPEG" height="360">
+<img src="./docs/DSC00236.JPEG" height="360">
 </p>
 <p>
-<img src="./docs/ST7735.jpg" width="360">
-<img src="./docs/IMG_4046.JPEG" width="360">
+<img src="./docs/ST7735.jpg" height="360">
+<img src="./docs/IMG_4046.JPEG" height="360">
 </p>
 <p>
-<img src="./docs/IMG_3866.jpg" width="360">
-<img src="./docs/DSC00212.jpeg" width="360">
+<img src="./docs/IMG_3866.jpg" height="360">
+<img src="./docs/DSC00212.jpeg" height="360">
 </p>
 <p>
-<img src="./docs/DSC00377.JPEG" width="360">
+<img src="./docs/DSC00377.JPEG" height="360">
+<img src="./docs/DSC00416.jpg" height="360">
 </p>
